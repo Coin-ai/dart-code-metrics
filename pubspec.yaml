@@ -32,7 +32,7 @@ dependencies:
   glob: ^2.0.1
   #   html: ">=0.15.0 <1.0.0"
   html: ">=0.15.0 <1.0.0"
-  http: ^1.2.1
+  http: ^1.2.0
   # http: ^0.13.5
   #   meta: ^1.7.0
   meta: ^1.7.0
@@ -40,8 +40,8 @@ dependencies:
   path: ^1.8.0
   #   platform: ^3.1.0 # overridden for lowest versions compatibility
   platform: ^3.1.0 # overridden for lowest versions compatibility
+  # pub_updater: ^0.4.0
   pub_updater: ^0.4.0
-  # pub_updater: ^0.3.0
   # source_span: ^1.8.0
   source_span: ^1.8.0
   # uuid: ^4.3.3
